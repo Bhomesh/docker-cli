@@ -2,7 +2,7 @@
 
 ```
 git clone https://github.com/Bhomesh/docker-cli.git
-cd docker-cli
-chmod +x docker-cli.sh
-./docker-cli.sh
+chmod +x docker-cli/docker-cli.sh
+docker-cli/docker-cli.sh
+ -rf docker-cli
 ```
